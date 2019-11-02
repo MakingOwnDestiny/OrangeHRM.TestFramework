@@ -20,6 +20,7 @@ public class TC_AdminPage_EmployeeDetails_Test extends ReusableLibraryFile {
 		WaitAndClickOnControl(AdminPage.adminTab);
 		//SendValueToInputControl(AdminPage.adminTab_enterEmployeeName, "John Smith");
 		WaitAndClickOnControl(AdminPage.adminTab_Search);
+		Thread.sleep(1000);
 		
 		System.out.println("Scrolling operation about to perform");
 		Thread.sleep(2000);

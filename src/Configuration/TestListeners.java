@@ -23,6 +23,7 @@ public class TestListeners implements ITestListener, ISuiteListener{
 	public static List<ITestNGMethod> SkippedTests = new ArrayList<ITestNGMethod>();
 	public static Date startDate;
 	public static Date EndDate; 
+	//This is just a comment
 
 
 	public void onTestSuccess(ITestResult result) {
