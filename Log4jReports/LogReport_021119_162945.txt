@@ -1,0 +1,8 @@
+[INFO] 2019-11-02 16:29:45,867 Configuration.Log4jInFile beforeTest - =======Starting new testcase here====== 
+[INFO] 2019-11-02 16:29:45,977 Configuration.Log4jInFile beforeClass - Instantiating test class object here
+[INFO] 2019-11-02 16:29:46,039 Configuration.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-11-02 16:30:12,383 Configuration.Log4jInFile LoginToTheApplication - start of testcase
+[INFO] 2019-11-02 16:30:38,835 Configuration.Log4jInFile LoginToTheApplication - End of testcase
+[INFO] 2019-11-02 16:30:41,838 Configuration.Log4jInFile onTestSuccess - Taking screen shot for the passed testcase
+[INFO] 2019-11-02 16:30:42,426 Configuration.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-11-02 16:30:45,559 Configuration.Log4jInFile afterTest - Reached after test & closing extent object

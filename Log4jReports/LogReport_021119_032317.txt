@@ -1,0 +1,24 @@
+[INFO] 2019-11-02 03:23:17,147 Configuration.Log4jInFile BeforeTest - =======Starting new testcase here====== 
+[INFO] 2019-11-02 03:23:17,147 Configuration.Log4jInFile BeforeTest - =======Starting new testcase here====== 
+[INFO] 2019-11-02 03:23:17,147 Configuration.Log4jInFile BeforeTest - =======Starting new testcase here====== 
+[INFO] 2019-11-02 03:23:17,269 Configuration.Log4jInFile beforeClass - Instantiating test class object here
+[INFO] 2019-11-02 03:23:17,269 Configuration.Log4jInFile beforeClass - Instantiating test class object here
+[INFO] 2019-11-02 03:23:17,269 Configuration.Log4jInFile beforeClass - Instantiating test class object here
+[INFO] 2019-11-02 03:23:17,286 Configuration.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-11-02 03:23:17,286 Configuration.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-11-02 03:23:17,286 Configuration.Log4jInFile beforeMethod - Entering B4 method and instantiating browser object
+[INFO] 2019-11-02 03:23:32,862 Configuration.Log4jInFile LoginToTheApplication - start of testcase
+[INFO] 2019-11-02 03:23:32,862 Configuration.Log4jInFile LoginToTheApplication - start of testcase
+[INFO] 2019-11-02 03:23:32,862 Configuration.Log4jInFile LoginToTheApplication - start of testcase
+[INFO] 2019-11-02 03:23:43,664 Configuration.Log4jInFile LoginToTheApplication - End of testcase
+[INFO] 2019-11-02 03:23:43,664 Configuration.Log4jInFile LoginToTheApplication - End of testcase
+[INFO] 2019-11-02 03:23:43,664 Configuration.Log4jInFile LoginToTheApplication - End of testcase
+[INFO] 2019-11-02 03:23:46,664 Configuration.Log4jInFile onTestSuccess - Taking screen shot for the passed testcase
+[INFO] 2019-11-02 03:23:46,664 Configuration.Log4jInFile onTestSuccess - Taking screen shot for the passed testcase
+[INFO] 2019-11-02 03:23:46,664 Configuration.Log4jInFile onTestSuccess - Taking screen shot for the passed testcase
+[INFO] 2019-11-02 03:23:47,241 Configuration.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-11-02 03:23:47,241 Configuration.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-11-02 03:23:47,241 Configuration.Log4jInFile afterMethod - Entering after method and closing browser object
+[INFO] 2019-11-02 03:23:50,426 Configuration.Log4jInFile AfterTest - Reached after test & closing extent object
+[INFO] 2019-11-02 03:23:50,426 Configuration.Log4jInFile AfterTest - Reached after test & closing extent object
+[INFO] 2019-11-02 03:23:50,426 Configuration.Log4jInFile AfterTest - Reached after test & closing extent object

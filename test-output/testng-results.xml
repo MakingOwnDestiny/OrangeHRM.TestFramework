@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60253" started-at="2019-11-02T10:59:45Z" finished-at="2019-11-02T11:00:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60253" started-at="2019-11-02T10:59:45Z" finished-at="2019-11-02T11:00:46Z">
+      <class name="TestCases.A_BaseSuiteFile">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2019-11-02T16:29:45Z" finished-at="2019-11-02T16:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43]" name="beforeTest" is-config="true" duration-ms="141" started-at="2019-11-02T16:29:45Z" finished-at="2019-11-02T16:29:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43]" name="beforeClass" is-config="true" duration-ms="54" started-at="2019-11-02T16:29:45Z" finished-at="2019-11-02T16:29:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43]" name="beforeMethod" is-config="true" duration-ms="26344" started-at="2019-11-02T16:29:46Z" finished-at="2019-11-02T16:30:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void TestCases.A_BaseSuiteFile.LoginTest() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="LoginTest()[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43]" name="LoginTest" duration-ms="29454" started-at="2019-11-02T16:30:12Z" finished-at="2019-11-02T16:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43]" name="afterMethod" is-config="true" duration-ms="3118" started-at="2019-11-02T16:30:42Z" finished-at="2019-11-02T16:30:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginTest status=SUCCESS method=A_BaseSuiteFile.LoginTest()[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43]" name="afterTest" is-config="true" duration-ms="514" started-at="2019-11-02T16:30:45Z" finished-at="2019-11-02T16:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:TestCases.A_BaseSuiteFile@7cd62f43]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-11-02T16:30:46Z" finished-at="2019-11-02T16:30:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- TestCases.A_BaseSuiteFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
